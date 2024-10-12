@@ -153,3 +153,7 @@ ul {
     font-size: 30px;
     font-weight: normal;
 }
+.catline {
+    background-color: #dda026;
+    line-height: 3px;
+}
